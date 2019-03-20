@@ -8,10 +8,10 @@ To use:
 
 1. Simply run the notebooks in the order they are numbered -
 
-  DataAcquisition
+  -->DataAcquisition
   
-  EDA
+  -->EDA
   
-  Linear Regression
+  -->Linear Regression
   
 2. Cleaned datasets have been pickled for your convenience so you may skip running the DataAcquisition notebook and jump straight to EDA.
